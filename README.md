@@ -8,3 +8,5 @@
 
 
 Functions to use Genie.jl easier!
+
+Will be removed once pull request is made into Genie
